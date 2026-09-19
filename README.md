@@ -12,7 +12,7 @@ Mahasiswa Teknik Informatika yang membangun pemahaman backend engineering dari n
 
 ## 🧠 Competitive Programming
 
-- Aktif di kompetisi mahasiswa Indonesia (geMasTIK, Fasilkom UI, dll.)
+- Aktif di kompetisi mahasiswa Indonesia (Gemastik, Veternity, Compfest)
 - Fokus pada binary search, two-pointer/sliding window, geometry optimization, interactive judge problems
 - Bahasa utama: **C++** (`bits/stdc++.h`)
 
@@ -29,33 +29,7 @@ Struktur Data: Hash Table, B-Tree, Trie, Heap, Graph
 PostgreSQL · MySQL · Redis
 Docker · Git Flow · REST API · JWT Auth
 ```
-
-**Jaringan**
-```
-Cisco IOS CLI · OSPF/RIP/Static Routing · VLAN · VLSM
-```
-
-## 📚 Filosofi Belajar
-
-Saya belajar dengan **membangun**, bukan sekadar membaca teori. Setiap konsep baru saya coba pahami dari empat sisi:
-- **Mengapa** konsep ini penting?
-- **Bagaimana** cara kerjanya di level internal?
-- **Di mana** dipakai di industri/produksi?
-- **Apa** trade-off dibanding pendekatan lain?
-
 Referensi belajar: roadmap.sh, ByteByteGo, Hussein Nasser, The Odin Project.
-
-## 📊 GitHub Stats
-
-<!-- Ganti USERNAME dengan username GitHub kamu -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight)
-
-## 📫 Kontak
-
-<!-- Tambahkan link LinkedIn/email/portfolio kamu di sini -->
-- LinkedIn: 
-- Email: 
 
 ---
 ⭐️ *Selalu terbuka untuk kolaborasi proyek backend engineering atau diskusi algoritma!*
