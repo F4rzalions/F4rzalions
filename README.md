@@ -29,6 +29,11 @@ Struktur Data: Hash Table, B-Tree, Trie, Heap, Graph
 PostgreSQL · MySQL · Redis
 Docker · Git Flow · REST API · JWT Auth
 ```
+
+**Artificial Intelegence**
+```
+on going
+```
 Referensi belajar: roadmap.sh, ByteByteGo, Hussein Nasser, The Odin Project.
 
 ---
